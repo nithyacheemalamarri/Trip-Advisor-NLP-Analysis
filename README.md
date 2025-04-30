@@ -1,5 +1,5 @@
 # Trip-Advisor-NLP-Analysis
-The goal of this project is to erform sentiment analysis on Tripadvisor hotel reviews by developing & comparing different ML models to classify reviews based on their textual content and corresponding star ratings (out of 5).
+The goal of this project is to perform sentiment analysis on Tripadvisor hotel reviews by developing & comparing different ML models to classify reviews based on their textual content and corresponding star ratings (out of 5).
 
 Google Colab was used to host our code, along with the aid of various NLP and ML libraries such as scikit-learn, nltk, and sentence transformers.
 
